@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WilliamNyamu
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning at Starehe Boys Centre, Nairobi Kenya
-
+-     I'm learning software development:HTML,PYTHON,JAVASCRIPT,KOTLIN,CSS,C++
 - 📫 How to reach me:williamnyamu08@gmail.com
 
 <!---
