@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm William Nyamu
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Backend+Engineer+%7C+ALX+Student;Turning+Injustices+into+E-Justices;Building+for+Human+Flourishing;Passionate+about+Redemptive+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Backend+Engineer+%7C+ALX+Student;Turning+Injustices+into+E-Justice;Building+for+Human+Flourishing;Passionate+about+Redemptive+Tech" alt="Typing SVG" />
 </div>
 
 ---
