@@ -27,7 +27,7 @@ Currently honing my skills through the **ALX Backend Program**, where I'm buildi
 ```python
 class BackendEngineer:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "William Nyamu"
         self.role = "Backend Engineer"
         self.program = "ALX Backend Program"
         self.mission = "Human Flourishing through Tech"
